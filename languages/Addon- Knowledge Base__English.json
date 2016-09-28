@@ -1,0 +1,89 @@
+{
+    "name": "English",
+    "slug": "en",
+    "is_active": "1",
+    "language_code": "en",
+    "text_direction": "LTR",
+    "addon": "knowledge_base",
+    "Strings": [
+        {
+            "slug": "knowledgebase",
+            "text": "Knowledge Base"
+        },
+        {
+            "slug": "kbarticle_management",
+            "text": "Knowledge Base Articles"
+        },
+        {
+            "slug": "kbarticle_add",
+            "text": "Add Article"
+        },
+        {
+            "slug": "kbarticle_edit",
+            "text": "Edit Article"
+        },
+        {
+            "slug": "kbcategory_management",
+            "text": "Knowledge Base Categories"
+        },
+        {
+            "slug": "kbcategory_add",
+            "text": "Add Category"
+        },
+        {
+            "slug": "kbcategory_edit",
+            "text": "Edit Category"
+        },
+        {
+            "slug": "kbarticle",
+            "text": "Article"
+        },
+        {
+            "slug": "kbcategory",
+            "text": "Category"
+        },
+        {
+            "slug": "kbarticles",
+            "text": "Articles"
+        },
+        {
+            "slug": "kbcategories",
+            "text": "Categories"
+        },
+        {
+            "slug": "rating_up",
+            "text": "Up Rating"
+        },
+        {
+            "slug": "rating_down",
+            "text": "Down Rating"
+        },
+        {
+            "slug": "search_articles",
+            "text": "Search Knowledge Base Articles..."
+        },
+        {
+            "slug": "latest_articles",
+            "text": "Latest Articles"
+        },
+        {
+            "slug": "find_useful",
+            "text": "Did you find this article useful?"
+        },
+        {
+            "slug": "rating_display",
+            "text": "{{rating-up}} out of {{rating-total}} people found this article helpful"
+        },
+        {
+            "slug": "cant_find_answer",
+            "text": "Can't find the answer?"
+        },
+        {
+            "slug": "kb_category_id",
+            "text": "Category"
+        }
+    ],
+    "EmailTemplates": [
+
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "whsuite/addon-knowledge-base",
+    "type": "whsuite-addon",
+    "description": "Knowledge Base plugin for use within WHSuite",
+    "license": "Private",
+    "authors": [
+        {
+            "name": "WHSuite",
+            "email": "info@whsuite.com"
+        }
+    ]
+}
